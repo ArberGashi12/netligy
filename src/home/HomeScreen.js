@@ -10,7 +10,7 @@ function HomeScreen() {
   return (
     <div className='HomeScreen'>
         <Nav />
-        <Banerrr/>
+        
         <Sliderretro/>
         
     </div>
