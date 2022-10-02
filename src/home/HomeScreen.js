@@ -1,7 +1,7 @@
 
 import React from 'react'
 import Nav from '../navbar/Nav'
-import Banerrr from './Banerrr'
+
 
 import Sliderretro from './Sliderretro'
 
